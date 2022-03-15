@@ -1,5 +1,5 @@
 # PrestaShop_Excel
-Code to export Prodcuts and Combinations to xlsx
+Code to export Products and Combinations to xlsx
 
 First step, install PhpOffice (phpspreadsheet). I installed in Composer.
 https://phpspreadsheet.readthedocs.io/en/latest/
